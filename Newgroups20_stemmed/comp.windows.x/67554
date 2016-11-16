@@ -1,0 +1,1 @@
+subject redirect stdout stderr of a program hi doe anyon know how to redirect the stdout and stderr of a program to a callback function in x the program doe not fork a child process so i guess i can t us pipe can anyon help thank deepak 

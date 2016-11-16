@@ -1,0 +1,1 @@
+subject word byte i just move from borland c to visual c todai when i tri to compil my c program it complain a function prototyp problem it turn out that the typedef word in ms c is a byte not unsign int could anyon shine some light on thi subject why a word is a byte ming t lin mlin ichip intel com 
